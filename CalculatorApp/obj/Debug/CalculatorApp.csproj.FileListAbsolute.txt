@@ -1,0 +1,7 @@
+H:\Projects\Personal\C Sharp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+H:\Projects\Personal\C Sharp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+H:\Projects\Personal\C Sharp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+H:\Projects\Personal\C Sharp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+H:\Projects\Personal\C Sharp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+H:\Projects\Personal\C Sharp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+H:\Projects\Personal\C Sharp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
